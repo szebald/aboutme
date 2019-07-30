@@ -10,6 +10,7 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "homepage": "https://szebald.github.io",
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
