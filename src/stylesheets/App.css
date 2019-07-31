@@ -29,6 +29,7 @@ h2{
   font-weight: bold;
   margin: 0 auto;
   font-family: 'Kalam', cursive;
+  margin-bottom: 15px;
 }
 
 h3 {
@@ -79,7 +80,7 @@ p{
 .skill-row-e{
   width: 50%;
   margin: 120px auto;
-  text-align: right;
+  text-align: left;
   line-height: 2;
 }
 
@@ -98,7 +99,7 @@ p{
 
 .contact-description{
   width: 50%;
-  margin: 50px auto;
+  margin: 30px auto;
 }
 
 .button {
@@ -113,7 +114,7 @@ p{
   background: #3498db;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .button:hover {
@@ -133,6 +134,8 @@ p{
 }
 
 .skillImg {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
 }
