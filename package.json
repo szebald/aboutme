@@ -2,7 +2,7 @@
   "name": "szebald.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://szebald.github.io",
+  "homepage": "https://szebald.github.io/aboutme",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
