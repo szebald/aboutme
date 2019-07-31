@@ -2,7 +2,7 @@
   "name": "szebald.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://szebald.github.io/szebald.github.io",
+  "homepage": "https://szebald.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
