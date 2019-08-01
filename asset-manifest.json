@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aboutme/static/css/main.006fe82d.chunk.css",
+    "main.css": "/aboutme/static/css/main.095460b1.chunk.css",
     "main.js": "/aboutme/static/js/main.bf34e969.chunk.js",
     "main.js.map": "/aboutme/static/js/main.bf34e969.chunk.js.map",
     "runtime~main.js": "/aboutme/static/js/runtime~main.8852904a.js",
@@ -8,9 +8,9 @@
     "static/js/2.3310f33a.chunk.js": "/aboutme/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/aboutme/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/aboutme/index.html",
-    "precache-manifest.7fb6fa7799e4a319e12a93e6e981efe0.js": "/aboutme/precache-manifest.7fb6fa7799e4a319e12a93e6e981efe0.js",
+    "precache-manifest.1b33ef886ad5a91e48ab37504e34a337.js": "/aboutme/precache-manifest.1b33ef886ad5a91e48ab37504e34a337.js",
     "service-worker.js": "/aboutme/service-worker.js",
-    "static/css/main.006fe82d.chunk.css.map": "/aboutme/static/css/main.006fe82d.chunk.css.map",
+    "static/css/main.095460b1.chunk.css.map": "/aboutme/static/css/main.095460b1.chunk.css.map",
     "static/media/App.scss": "/aboutme/static/media/memobile.9e7c3caa.jpeg"
   }
 }
