@@ -125,6 +125,9 @@ p{
   margin: 60px auto;
   text-align: left;
   line-height: 2;
+  h3 {
+    align-self: center;
+  }
 }
 
 .profImg{
@@ -208,10 +211,15 @@ p{
     text-align: justify;
   }
 
-  .skill-row-e, .skill-row-o {
+  .skill-row-o {
     display: flex;
     flex-direction: column;
     width: 80%;
+    margin: 20px auto;
+  }
+
+  .skillImg {
+    align-self: center;
   }
 
   .title > .description, .contact-description, .copyright {
